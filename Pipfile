@@ -13,6 +13,8 @@ polyline = "*"
 plotly = "*"
 jupyter-contrib-nbextensions = "*"
 streamlit = "*"
+matplotlib = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.8"
