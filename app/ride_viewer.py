@@ -70,6 +70,7 @@ fig.update_layout(
                 lon=np.median(ride_longitudes)
             ),
         ),
+        showlegend=False,
         margin={"r":0,"t":0,"l":0,"b":0}
     )
 
